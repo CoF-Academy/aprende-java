@@ -8,8 +8,5 @@ public class Circle extends Figure {
         this.radius = radius;
     }
 
-    @Override
-    public double calculateArea() {
-        return 3.1416 * radius * radius;
-    }
+
 }

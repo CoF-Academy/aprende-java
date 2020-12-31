@@ -7,8 +7,5 @@ public class Square extends Figure {
         this.side = side;
     }
 
-    @Override
-    public double calculateArea() {
-        return side * side;
-    }
+
 }

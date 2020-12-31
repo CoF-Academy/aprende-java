@@ -6,7 +6,8 @@ public class Main {
         Circle c = new Circle();
         s.setSide(3);
         c.setRadius(3);
-        System.out.println("Square area: " + s.calculateArea());
-        System.out.println("Circle area: " + c.calculateArea());
+        s.display();
+        //System.out.println("Square area: " + s.calculateArea());
+        //System.out.println("Circle area: " + c.calculateArea());
     }
 }

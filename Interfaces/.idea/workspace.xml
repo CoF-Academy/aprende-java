@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f2b7f1-30ca-4c6e-9aab-dba635e932ed" name="Default Changelist" comment="" />
+    <list default="true" id="768eed24-9012-4f4f-b54f-1ee76398a2f5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,7 +43,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1jqowTd80rf2Thzr3xIKVvGB8Ac" />
+  <component name="ProjectId" id="1mQvJZfa7pUHdpmF8kGac3Nscab" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,7 +55,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cofacademy.example.Main" />
-      <module name="AbstractClasses" />
+      <module name="Interfaces" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cofacademy.example.*" />
@@ -74,11 +75,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="03f2b7f1-30ca-4c6e-9aab-dba635e932ed" name="Default Changelist" comment="" />
-      <created>1604541222378</created>
+      <changelist id="768eed24-9012-4f4f-b54f-1ee76398a2f5" name="Default Changelist" comment="" />
+      <created>1609438559561</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1604541222378</updated>
+      <updated>1609438559561</updated>
     </task>
     <servers />
   </component>
@@ -92,28 +93,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="624" y="16" key="#com.intellij.ide.util.MemberChooser" timestamp="1604607105994">
+    <state x="624" y="16" key="#com.intellij.ide.util.MemberChooser" timestamp="1609440575553">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="624" y="16" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604607105994" />
-    <state width="1843" height="252" key="GridCell.Tab.0.bottom" timestamp="1605161376619">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1843" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605161376619" />
-    <state width="1843" height="252" key="GridCell.Tab.0.center" timestamp="1605161376619">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1843" height="252" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605161376619" />
-    <state width="1843" height="252" key="GridCell.Tab.0.left" timestamp="1605161376619">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1843" height="252" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605161376619" />
-    <state width="1843" height="252" key="GridCell.Tab.0.right" timestamp="1605161376619">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1843" height="252" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605161376619" />
+    <state x="624" y="16" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609440575553" />
   </component>
 </project>
